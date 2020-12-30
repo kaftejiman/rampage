@@ -1,0 +1,6 @@
+github.com/karrick/godirwalk v1.16.1 h1:DynhcF+bztK8gooS0+NDJFrdNZjJ3gzVzC545UNA9iw=
+github.com/karrick/godirwalk v1.16.1/go.mod h1:j4mkqPuvaLI8mp1DroR3P6ad7cyYd4c1qeJ3RV7ULlk=
+github.com/phylake/go-crypto v0.0.0-20160925142522-dd6ed3c13977 h1:H5w6E7lxpV27jvSHksQleMiu7KxaXCEED6X3LFEZw6U=
+github.com/phylake/go-crypto v0.0.0-20160925142522-dd6ed3c13977/go.mod h1:+0s74ZxogsgxzQzZumyXcWayktpoC9olqa61MRXaAf8=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
